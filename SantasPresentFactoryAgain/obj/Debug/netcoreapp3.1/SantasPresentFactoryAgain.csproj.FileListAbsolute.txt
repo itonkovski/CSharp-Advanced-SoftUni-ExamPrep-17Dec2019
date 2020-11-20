@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/bin/Debug/netcoreapp3.1/SantasPresentFactoryAgain
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/bin/Debug/netcoreapp3.1/SantasPresentFactoryAgain.deps.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/bin/Debug/netcoreapp3.1/SantasPresentFactoryAgain.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/bin/Debug/netcoreapp3.1/SantasPresentFactoryAgain.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/bin/Debug/netcoreapp3.1/SantasPresentFactoryAgain.dll
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/bin/Debug/netcoreapp3.1/SantasPresentFactoryAgain.pdb
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/obj/Debug/netcoreapp3.1/SantasPresentFactoryAgain.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/obj/Debug/netcoreapp3.1/SantasPresentFactoryAgain.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/obj/Debug/netcoreapp3.1/SantasPresentFactoryAgain.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/obj/Debug/netcoreapp3.1/SantasPresentFactoryAgain.dll
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/SantasPresentFactoryAgain/obj/Debug/netcoreapp3.1/SantasPresentFactoryAgain.pdb

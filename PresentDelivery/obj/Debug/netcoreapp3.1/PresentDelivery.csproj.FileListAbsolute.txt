@@ -1,0 +1,22 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.pdb
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.deps.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.dll
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/bin/Debug/netcoreapp3.1/PresentDelivery.pdb
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.dll
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/Debug/netcoreapp3.1/PresentDelivery.pdb
