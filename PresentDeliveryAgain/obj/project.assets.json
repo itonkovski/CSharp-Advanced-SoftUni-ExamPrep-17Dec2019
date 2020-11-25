@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasPresentFactoryAgain/SantasPresentFactoryAgain.csproj",
-      "projectName": "SantasPresentFactoryAgain",
-      "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasPresentFactoryAgain/SantasPresentFactoryAgain.csproj",
+      "projectUniqueName": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/PresentDeliveryAgain.csproj",
+      "projectName": "PresentDeliveryAgain",
+      "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/PresentDeliveryAgain.csproj",
       "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
-      "outputPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasPresentFactoryAgain/obj/",
+      "outputPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

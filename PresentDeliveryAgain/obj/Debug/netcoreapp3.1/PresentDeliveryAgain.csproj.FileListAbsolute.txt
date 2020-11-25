@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/bin/Debug/netcoreapp3.1/PresentDeliveryAgain
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/bin/Debug/netcoreapp3.1/PresentDeliveryAgain.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/bin/Debug/netcoreapp3.1/PresentDeliveryAgain.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/bin/Debug/netcoreapp3.1/PresentDeliveryAgain.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/bin/Debug/netcoreapp3.1/PresentDeliveryAgain.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/bin/Debug/netcoreapp3.1/PresentDeliveryAgain.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/obj/Debug/netcoreapp3.1/PresentDeliveryAgain.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/obj/Debug/netcoreapp3.1/PresentDeliveryAgain.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/obj/Debug/netcoreapp3.1/PresentDeliveryAgain.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/obj/Debug/netcoreapp3.1/PresentDeliveryAgain.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/obj/Debug/netcoreapp3.1/PresentDeliveryAgain.pdb

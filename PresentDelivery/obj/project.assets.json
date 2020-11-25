@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/PresentDelivery.csproj",
+      "projectUniqueName": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDelivery/PresentDelivery.csproj",
       "projectName": "PresentDelivery",
-      "projectPath": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/PresentDelivery.csproj",
+      "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDelivery/PresentDelivery.csproj",
       "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
-      "outputPath": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrepAdvanced17Dec2019/PresentDelivery/obj/",
+      "outputPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDelivery/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

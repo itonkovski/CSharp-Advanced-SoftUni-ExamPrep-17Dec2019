@@ -1,13 +1,20 @@
-﻿<Properties StartupConfiguration="{06293C16-6B7F-48A6-8474-AC3233F99478}|Default">
+﻿<Properties StartupConfiguration="{0CE4112F-54D1-4D29-8CE9-61CFB32023B1}|Default">
   <MonoDevelop.Ide.ItemProperties.PresentDelivery PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SantasPresentFactoryAgain/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.PresentDeliveryAgain PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PresentDeliveryAgain/Program.cs">
     <Files>
-      <File FileName="SantasPresentFactoryAgain/Program.cs" Line="135" Column="17" />
+      <File FileName="PresentDeliveryAgain/Program.cs" Line="270" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ExamPrepAdvanced17Dec2019" expanded="True" />
+          <Node name="ExamPrepAdvanced17Dec2019" expanded="True">
+            <Node name="PresentDelivery" expanded="True" />
+            <Node name="PresentDeliveryAgain" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="SantasPresentFactoryAgain" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -17,7 +24,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.SantasPresentFactory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/Program.cs" relfile="PresentDeliveryAgain/Program.cs" line="28" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
