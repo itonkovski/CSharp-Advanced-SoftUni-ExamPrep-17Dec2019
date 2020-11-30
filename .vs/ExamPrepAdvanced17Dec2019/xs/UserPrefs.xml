@@ -1,31 +1,33 @@
-﻿<Properties StartupConfiguration="{0CE4112F-54D1-4D29-8CE9-61CFB32023B1}|Default">
+﻿<Properties StartupConfiguration="{F523CBB5-A779-44CE-BC80-9C2D02025B08}|Default">
   <MonoDevelop.Ide.ItemProperties.PresentDelivery PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PresentDeliveryAgain PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PresentDeliveryAgain/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SantasBagOfPresents/StartUp.cs">
     <Files>
-      <File FileName="PresentDeliveryAgain/Program.cs" Line="270" Column="35" />
+      <File FileName="SantasBagOfPresents/Program.cs" Line="6" Column="30" />
+      <File FileName="SantasBagOfPresents/Present.cs" Line="26" Column="1" />
+      <File FileName="SantasBagOfPresents/Bag.cs" Line="79" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExamPrepAdvanced17Dec2019" expanded="True">
-            <Node name="PresentDelivery" expanded="True" />
-            <Node name="PresentDeliveryAgain" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="PresentDeliveryAgain" expanded="True" />
+            <Node name="SantasBagOfPresents" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
             </Node>
-            <Node name="SantasPresentFactoryAgain" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Christmas PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.SantasPresentFactoryAgain PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.SantasPresentFactory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/PresentDeliveryAgain/Program.cs" relfile="PresentDeliveryAgain/Program.cs" line="28" column="1" />
+      <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/StartUp.cs" relfile="SantasBagOfPresents/StartUp.cs" line="13" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

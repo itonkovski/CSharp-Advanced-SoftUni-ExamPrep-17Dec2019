@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp2.1/Christmas.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp2.1/Christmas.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp2.1/Christmas.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp2.1/Christmas.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp2.1/Christmas.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp2.1/Christmas.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp2.1/Christmas.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp2.1/Christmas.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp2.1/Christmas.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp2.1/Christmas.pdb

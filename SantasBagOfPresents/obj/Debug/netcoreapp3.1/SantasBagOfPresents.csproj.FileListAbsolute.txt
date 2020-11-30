@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp3.1/SantasBagOfPresents
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp3.1/SantasBagOfPresents.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp3.1/SantasBagOfPresents.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp3.1/SantasBagOfPresents.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp3.1/SantasBagOfPresents.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/bin/Debug/netcoreapp3.1/SantasBagOfPresents.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp3.1/SantasBagOfPresents.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp3.1/SantasBagOfPresents.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp3.1/SantasBagOfPresents.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp3.1/SantasBagOfPresents.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-17Dec2019/SantasBagOfPresents/obj/Debug/netcoreapp3.1/SantasBagOfPresents.pdb

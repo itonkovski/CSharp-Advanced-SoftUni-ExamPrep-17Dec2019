@@ -25,7 +25,8 @@ namespace PresentDeliveryAgain
 
             string command;
 
-            while ((command = Console.ReadLine()) != "Christmas morning" && presentsCount > 0)
+            while ((command = Console.ReadLine()) != "Christmas morning"
+                && presentsCount > 0)
             {
                 if (command == "up")
                 {
